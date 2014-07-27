@@ -20,7 +20,6 @@ We are using WordPress because
 - marketing team already knows it 
 - widely available skill set in future marketing hires (unlike, say, git) 
 - stable, easy to use, generally likable
-- 
 - increasingly enterprise-appropriate, particularly with robust managed hosting and version control possible (see below). 
 
 ### Hosting

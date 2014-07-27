@@ -1,12 +1,12 @@
-Publications - Happening Now
+Happening Now
 =====================
 
 Working title: Happening Now
 
 A project to migrate the "DBC blog" into a community magazine that provides visibility into all manner of DBC activities. This project is a function of the Marketing Circle, with project management happening in Trello. 
 
-Project lead: Lia James lia@devbootcamp.com 
-Product lead: Jonathan Eyler-Werve jonathan@devbootcamp.com 
+- Project lead: Lia James lia@devbootcamp.com 
+- Product lead: Jonathan Eyler-Werve jonathan@devbootcamp.com 
 
 Some things to know: 
 

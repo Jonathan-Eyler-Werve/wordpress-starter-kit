@@ -20,7 +20,7 @@ We will do this by engaging with current students as storytellers documenting th
 
 ### CMS 
 
-We are using a CMS because it includes more people in the storytelling process. Managing a CMS is not cost free, but the value provided by allowing the marketing team to add content and make edits without technical staff assistance massively outweights the CMS management costs, in Jonathan's opinion. 
+We are using a Content Management System because it includes more people in the storytelling process. Managing a CMS is not cost free, but the value provided by allowing the marketing team to add content and make edits without technical staff assistance massively outweights the CMS management costs, in Jonathan's opinion. 
 
 We are using WordPress because 
 
@@ -28,7 +28,7 @@ We are using WordPress because
 - marketing team already knows it 
 - widely available skill set in future marketing hires (unlike, say, git) 
 - stable, easy to use, generally likable
-- increasingly enterprise-appropriate, particularly with robust managed hosting and version control possible (see below). 
+- increasingly [popular in enterprise settings](http://builtwith.com/?https%3a%2f%2fengineering.groupon.com%2f), particularly with robust managed hosting and version control possible (see below). 
 
 ### Hosting
 

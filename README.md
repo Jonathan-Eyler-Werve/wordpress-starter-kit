@@ -1,4 +1,4 @@
-wordpress-happening-now
+Publications - Happening Now
 =====================
 
 Working title: Happening Now

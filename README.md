@@ -10,6 +10,14 @@ Product lead: Jonathan Eyler-Werve jonathan@devbootcamp.com
 
 Some things to know: 
 
+### Strategy 
+
+Lia and Jonathan worked on this, and will explain more later. 
+
+In short: our goal is to make the expereince of DBC visible to prospective students. We will answer the questions, "What can you build after this program?" and "Does anyone get hired after these programs" with direct evidence. 
+
+We will do this by engaging with current students as storytellers documenting the work they do at DBC. As students graduate, we'll roll out ways to let them tell the story of what happened next. Anticipated side benefits include program visibility to employers and closer cohort cohesion post-grad. 
+
 ### CMS 
 
 We are using a CMS because it includes more people in the storytelling process. Managing a CMS is not cost free, but the value provided by allowing the marketing team to add content and make edits without technical staff assistance massively outweights the CMS management costs, in Jonathan's opinion. 
@@ -51,14 +59,6 @@ Scrum-like project management on Trello. Lia owns vision and project goals, Jona
 ### Ongoing support 
 
 Lia will be community manager and content strategist going forward. Jonathan is exploring ways to fill product owner roll, pending various staffing decisions. Tech Circle is not expected to support this product beyond the occasional reccomendations and keeping DBC core services running (ie SSO). 
-
-### Strategy 
-
-Lia and Jonathan worked on this, and will explain more later. 
-
-In short: our goal is to make the expereince of DBC visible to prospective students. We will answer the questions, "What can you build after this program?" and "Does anyone get hired after these programs" with direct evidence. 
-
-We will do this by engaging with current students as storytellers documenting the work they do at DBC. As students graduate, we'll roll out ways to let them tell the story of what happened next. Anticipated side benefits include program visibility to employers and closer cohort cohesion post-grad. 
 
 ### Theming
 

@@ -5,7 +5,10 @@ Jonathan did some googling for design comps.
 
 ### Things we looked at 
 
-"Student Life" at universityies
+Bootcamps
+- [metis](http://www.thisismetis.com/#bootcamps), very nicely done, and most OK to steal
+
+"Student Life" pages at universityies
 - Northwestern
 - Harvard 
 - Geoerge Washington Univerity
@@ -52,6 +55,10 @@ Ad landing pages
 ### Design patterns to consider
 - [The bold open](http://www.madetogether.com.au/)
 - [Hero header](http://aerotwist.com/tutorials/)
+- [data as story](http://aprilzero.com/sport/)
+- [lightweight forms](http://patterntap.com/pattern/form-octobox)
+- [Bookshelf storyboard](https://steller.co/stories/top)
+- [Lovely, functional nav](http://www.starwars.com/)
 
 
 ### Opinions

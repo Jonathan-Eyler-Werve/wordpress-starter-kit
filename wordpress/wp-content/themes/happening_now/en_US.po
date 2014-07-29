@@ -1,0 +1,882 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Response\n"
+"POT-Creation-Date: 2014-04-08 15:32-1000\n"
+"PO-Revision-Date: 2014-04-08 15:33-1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Not Found, Error 404"
+msgstr ""
+
+#: 404.php:18
+msgid "The page you are looking for no longer exists or cannot be found."
+msgstr ""
+
+#: admin/options-framework.php:163 admin/options-framework.php:378
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-framework.php:194
+msgid "Clear"
+msgstr ""
+
+#: admin/options-framework.php:195
+msgid "Default"
+msgstr ""
+
+#: admin/options-framework.php:196
+msgid "Select Color"
+msgstr ""
+
+#: admin/options-framework.php:241
+msgid "Save Options"
+msgstr ""
+
+#: admin/options-framework.php:242
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/options-framework.php:242
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:274
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:328
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: admin/options-media-uploader.php:54 admin/options-media-uploader.php:107
+msgid "Upload"
+msgstr ""
+
+#: admin/options-media-uploader.php:56 admin/options-media-uploader.php:108
+msgid "Remove"
+msgstr ""
+
+#: admin/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: admin/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: admin/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: admin/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: admin/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: author.php:39
+msgid "Website:"
+msgstr ""
+
+#: author.php:40
+msgid "Link to author page"
+msgstr ""
+
+#: author.php:45
+msgid "Profile:"
+msgstr ""
+
+#: author.php:53
+#, php-format
+msgid "Posts by %1$s:"
+msgstr ""
+
+#: author.php:66
+msgid "No posts by this author."
+msgstr ""
+
+#: comments.php:13
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:30
+#, php-format
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:22
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:22
+msgid "Y"
+msgstr ""
+
+#: footer.php:22
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:24
+msgid "Response Theme"
+msgstr ""
+
+#: footer.php:24
+msgid "by"
+msgstr ""
+
+#: footer.php:24
+msgid "Organic Themes"
+msgstr ""
+
+#: footer.php:24
+msgid "WordPress Hosting"
+msgstr ""
+
+#: footer.php:24
+msgid "RSS Feed"
+msgstr ""
+
+#: formats/format-gallery.php:32 formats/format-image.php:19
+#: formats/format-standard.php:63 formats/format-video.php:21 loop-post.php:39
+msgid "Posted by"
+msgstr ""
+
+#: formats/format-gallery.php:33 formats/format-image.php:20
+#: formats/format-standard.php:64 formats/format-video.php:22 loop-post.php:40
+msgid "Leave a Comment"
+msgstr ""
+
+#: formats/format-gallery.php:33 formats/format-image.php:20
+#: formats/format-standard.php:64 formats/format-video.php:22 loop-post.php:40
+msgid "1 Comment"
+msgstr ""
+
+#: formats/format-standard.php:21 loop-slider.php:36
+msgid "Continue Reading"
+msgstr ""
+
+#: formats/format-standard.php:24 home.php:65 loop-page.php:39
+#: loop-post.php:58
+msgid "Pages:"
+msgstr ""
+
+#: formats/format-standard.php:29 home.php:70 loop-page.php:44
+#: loop-post.php:63
+msgid "Next"
+msgstr ""
+
+#: formats/format-standard.php:30 home.php:71 loop-page.php:45
+#: loop-post.php:64
+msgid "Previous"
+msgstr ""
+
+#: formats/format-standard.php:50 loop-page.php:65 loop-post.php:83
+msgid "Tweet"
+msgstr ""
+
+#: functions.php:25
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:190
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:198
+msgid "Sidebar Left"
+msgstr ""
+
+#: functions.php:206
+msgid "Sidebar Blog"
+msgstr ""
+
+#: functions.php:235
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:235 functions.php:275
+msgid "Edit"
+msgstr ""
+
+#: functions.php:256
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:261
+#, php-format
+msgid "<span class=\"comment-meta\">%2$s &nbsp;by&nbsp; %1$s </span>"
+msgstr ""
+
+#: functions.php:267
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:273
+msgid "Reply"
+msgstr ""
+
+#: functions.php:394
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:395
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:408
+msgid "Featured Video Embed Code"
+msgstr ""
+
+#: functions.php:439
+msgid "Post Title Link (For Link Format)"
+msgstr ""
+
+#: functions.php:511
+msgid "Search"
+msgstr ""
+
+#: functions.php:516
+msgid "Search Here"
+msgstr ""
+
+#: functions.php:518
+msgid "Go"
+msgstr ""
+
+#: functions.php:593
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:609
+#, php-format
+msgid "<span class=\"posted-on\">Posted on %1$s</span>"
+msgstr ""
+
+#: header.php:82
+msgid "Menu"
+msgstr ""
+
+#: home.php:62 loop-page.php:36 loop-post.php:55 template-archive.php:26
+msgid "Read More"
+msgstr ""
+
+#: loop-archive.php:28 loop-post.php:99
+msgid "Category:"
+msgstr ""
+
+#: loop-archive.php:30 loop-post.php:101
+msgid "Tags:"
+msgstr ""
+
+#: loop-archive.php:39 loop-category.php:21 loop-page.php:87
+#: loop-portfolio.php:71 loop-post.php:116 template-archive.php:47
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: loop-blog.php:25
+msgid "No Posts Found"
+msgstr ""
+
+#: loop-blog.php:26
+msgid ""
+"We're sorry, but no posts have been found. Create a post to be added to this "
+"section, and configure your theme options."
+msgstr ""
+
+#: loop-page.php:74 loop-post.php:91 template-archive.php:44
+msgid "(Edit)"
+msgstr ""
+
+#: loop-portfolio.php:47
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: options.php:32
+msgid "One Column Layout"
+msgstr ""
+
+#: options.php:32
+msgid "Two Column Layout"
+msgstr ""
+
+#: options.php:32
+msgid "Three Column Layout"
+msgstr ""
+
+#: options.php:32
+msgid "Four Column Layout"
+msgstr ""
+
+#: options.php:35
+msgid "One"
+msgstr ""
+
+#: options.php:35
+msgid "Two"
+msgstr ""
+
+#: options.php:35
+msgid "Three"
+msgstr ""
+
+#: options.php:35
+msgid "Four"
+msgstr ""
+
+#: options.php:35
+msgid "Five"
+msgstr ""
+
+#: options.php:38
+msgid "French Toast"
+msgstr ""
+
+#: options.php:38
+msgid "Pancake"
+msgstr ""
+
+#: options.php:38
+msgid "Omelette"
+msgstr ""
+
+#: options.php:38
+msgid "Crepe"
+msgstr ""
+
+#: options.php:38
+msgid "Waffle"
+msgstr ""
+
+#: options.php:47
+msgid "1 Second"
+msgstr ""
+
+#: options.php:47
+msgid "2 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "4 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "6 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "8 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "10 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "12 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "14 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "16 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "18 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "20 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "30 Seconds"
+msgstr ""
+
+#: options.php:47
+msgid "1 Minute"
+msgstr ""
+
+#: options.php:47
+msgid "Hold Frame"
+msgstr ""
+
+#: options.php:50
+msgid "Yes"
+msgstr ""
+
+#: options.php:50
+msgid "No"
+msgstr ""
+
+#: options.php:61
+msgid "All Categories"
+msgstr ""
+
+#: options.php:66
+msgid "Select a page:"
+msgstr ""
+
+#: options.php:76
+msgid "Homepage"
+msgstr ""
+
+#: options.php:79
+msgid "Display Slideshow?"
+msgstr ""
+
+#: options.php:80
+msgid "This option displays the featured slideshow on the homepage."
+msgstr ""
+
+#: options.php:85
+msgid "Slideshow Category"
+msgstr ""
+
+#: options.php:86
+msgid "Choose the post category you wish to display in the featured slideshow."
+msgstr ""
+
+#: options.php:88 options.php:130 options.php:149
+msgid "Select a category:"
+msgstr ""
+
+#: options.php:92
+msgid "Slideshow Posts To Display"
+msgstr ""
+
+#: options.php:93
+msgid ""
+"Enter the number of posts you wish to display in the featured slideshow."
+msgstr ""
+
+#: options.php:98
+msgid "Slideshow Transition Interval"
+msgstr ""
+
+#: options.php:99
+msgid ""
+"Choose the transition time for the slideshow. This is the time the frame is "
+"held before transitioning to the next slide."
+msgstr ""
+
+#: options.php:105
+msgid "Slideshow Height"
+msgstr ""
+
+#: options.php:106
+msgid ""
+"Set an optional minimum height value for the slideshow in pixels (i.e. "
+"540px)."
+msgstr ""
+
+#: options.php:111
+msgid "Display Featured Page?"
+msgstr ""
+
+#: options.php:112
+msgid "This option displays the featured page beneath the slideshow."
+msgstr ""
+
+#: options.php:117
+msgid "Select Featured Page"
+msgstr ""
+
+#: options.php:118
+msgid ""
+"Choose the page you wish to display in the featured section beneath the "
+"slideshow."
+msgstr ""
+
+#: options.php:124
+msgid "Page Templates"
+msgstr ""
+
+#: options.php:127
+msgid "Blog Posts Category"
+msgstr ""
+
+#: options.php:128
+msgid "Choose the category you wish to display for the blog page template."
+msgstr ""
+
+#: options.php:134
+msgid "Blog Posts Displayed"
+msgstr ""
+
+#: options.php:135
+msgid ""
+"Enter the number of posts you would like displayed on the blog page "
+"template. Pagination occurs after entered number of posts."
+msgstr ""
+
+#: options.php:140
+msgid "Portfolio Columns"
+msgstr ""
+
+#: options.php:146
+msgid "Portfolio Category"
+msgstr ""
+
+#: options.php:147
+msgid ""
+"Choose the category you wish to display on the portfolio page template. Sub-"
+"categories will be displayed as portfolio filters."
+msgstr ""
+
+#: options.php:153
+msgid "Display Portfolio Info?"
+msgstr ""
+
+#: options.php:154
+msgid ""
+"Selecting this option will display the post title and excerpt for portfolio "
+"posts on the portfolio page template."
+msgstr ""
+
+#: options.php:159
+msgid "Layout"
+msgstr ""
+
+#: options.php:162
+msgid "Site Width"
+msgstr ""
+
+#: options.php:163
+#, php-format
+msgid ""
+"Set a maximum width of your site in pixels if desired (i.e. 980px). Enter "
+"100% for full width."
+msgstr ""
+
+#: options.php:168
+msgid "Display Post Featured Image?"
+msgstr ""
+
+#: options.php:169
+msgid "This option displays the featured image or video on individual posts."
+msgstr ""
+
+#: options.php:174
+msgid "Display Footer Social Icons?"
+msgstr ""
+
+#: options.php:175
+msgid "This option displays the social icons and links in the footer."
+msgstr ""
+
+#: options.php:180
+msgid "Display Blog Social Buttons?"
+msgstr ""
+
+#: options.php:181
+msgid ""
+"This option displays the Tweet, Like, Pinterest and Google+ buttons on the "
+"homepage blog and category pages."
+msgstr ""
+
+#: options.php:186
+msgid "Display Post Social Buttons?"
+msgstr ""
+
+#: options.php:187
+msgid ""
+"This option displays the Tweet, Like, Pinterest and Google+ buttons on "
+"individual posts."
+msgstr ""
+
+#: options.php:192
+msgid "Display Page Social Buttons?"
+msgstr ""
+
+#: options.php:193
+msgid ""
+"This option displays the Tweet, Like, Pinterest and Google+ buttons on "
+"individual pages."
+msgstr ""
+
+#: options.php:198
+msgid "Enable CSS3 Full Width Background Image?"
+msgstr ""
+
+#: options.php:199
+msgid ""
+"This option enables an applied background image to stretch to the full width "
+"of the browser."
+msgstr ""
+
+#: options.php:204
+msgid "Enable Responsive Layout?"
+msgstr ""
+
+#: options.php:205
+msgid ""
+"This option enables the responsive site layout for the iPhone, iPad and "
+"mobile devices."
+msgstr ""
+
+#: options.php:210
+msgid "Social"
+msgstr ""
+
+#: options.php:213
+msgid "Twitter Name"
+msgstr ""
+
+#: options.php:214
+msgid "Enter your Twitter username."
+msgstr ""
+
+#: options.php:216
+msgid "OrganicThemes"
+msgstr ""
+
+#: options.php:219
+msgid "Facebook Page Link"
+msgstr ""
+
+#: options.php:220
+msgid "Enter a link to your Facebook page or profile."
+msgstr ""
+
+#: options.php:225
+msgid "Twitter Account Link"
+msgstr ""
+
+#: options.php:226
+msgid "Enter a link to your Twitter account."
+msgstr ""
+
+#: options.php:231
+msgid "LinkedIn Account Link"
+msgstr ""
+
+#: options.php:232
+msgid "Enter a link to your LinkedIn page."
+msgstr ""
+
+#: options.php:237
+msgid "Dribbble Page Link"
+msgstr ""
+
+#: options.php:238
+msgid "Enter a link to your Dribbble page."
+msgstr ""
+
+#: options.php:243
+msgid "Skype Account Link"
+msgstr ""
+
+#: options.php:244
+msgid "Enter a link to your Skype account. (e.g. skype://MySkypeName)"
+msgstr ""
+
+#: options.php:249
+msgid "Google Plus Profile Link"
+msgstr ""
+
+#: options.php:250
+msgid "Enter a link to your Google Plus page."
+msgstr ""
+
+#: options.php:255
+msgid "Pinterest Profile Link"
+msgstr ""
+
+#: options.php:256
+msgid "Enter a link to your Pinterest page."
+msgstr ""
+
+#: options.php:261
+msgid "Github Link"
+msgstr ""
+
+#: options.php:262
+msgid "Enter a link to your Github page."
+msgstr ""
+
+#: options.php:267
+msgid "Instagram Link"
+msgstr ""
+
+#: options.php:268
+msgid "Enter a link to your Instagram page."
+msgstr ""
+
+#: options.php:273
+msgid "YouTube Link"
+msgstr ""
+
+#: options.php:274
+msgid "Enter a link to your YouTube page."
+msgstr ""
+
+#: options.php:279
+msgid "Email Address"
+msgstr ""
+
+#: options.php:280
+msgid "Enter your email address."
+msgstr ""
+
+#: options.php:285
+msgid "Colors"
+msgstr ""
+
+#: options.php:288
+msgid "Link Color"
+msgstr ""
+
+#: options.php:289
+msgid "Select the color you wish to use for the link colors."
+msgstr ""
+
+#: options.php:294
+msgid "Link Hover Color"
+msgstr ""
+
+#: options.php:295
+msgid "Select the color you wish to use for the link hover colors."
+msgstr ""
+
+#: options.php:300
+msgid "Menu Color"
+msgstr ""
+
+#: options.php:301
+msgid "Select the color you wish to use for the main menu."
+msgstr ""
+
+#: options.php:306
+msgid "Highlight Color"
+msgstr ""
+
+#: options.php:307
+msgid ""
+"Select the color you wish to use for the highlight color. This refers "
+"primarily to button colors and accents."
+msgstr ""
+
+#: template-archive.php:29
+msgid "By Page:"
+msgstr ""
+
+#: template-archive.php:32
+msgid "By Month:"
+msgstr ""
+
+#: template-archive.php:35
+msgid "By Category:"
+msgstr ""
+
+#: template-archive.php:40
+msgid "By Post:"
+msgstr ""

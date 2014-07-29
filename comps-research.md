@@ -35,8 +35,8 @@ Ad landing pages
 # Looking inward 
 
 ### Audience 
-- Prospective students
-- Prospective employers 
+- Prospective students (lurking)
+- Prospective employers (lurking)
 - Students 
 - Alumni 
 - Students +1s (friends, family)
@@ -45,14 +45,14 @@ Ad landing pages
 - Students 
 
 ### Most likely to convert 
-- Prospected 
+- Prospective students 
 
 # Looking forward
 
 ### Design patterns to consider
 - [The bold open](http://www.madetogether.com.au/)
 - [Hero header](http://aerotwist.com/tutorials/)
-- 
+
 
 ### Opinions
 
